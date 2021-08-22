@@ -1,7 +1,8 @@
 {
   "name": "lodash-deepmerge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Manage deeply merging objects as well as the arrays they contain.",
+  "homepage": "https://github.com/xshapira/lodash-deepmerge",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
